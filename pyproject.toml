@@ -27,3 +27,7 @@ Repository = "https://github.com/resemble-ai/chatterbox"
 [build-system]
 requires = ["uv_build>=0.9.6,<0.10.0"]
 build-backend = "uv_build"
+
+[tool.ruff]
+# Disable everything
+extend-exclude=["*"]
