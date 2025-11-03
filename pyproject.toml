@@ -15,9 +15,9 @@ dependencies = [
     "numpy>=2.2.6",
     "resemble-perth>=1.0.1",
     "s3tokenizer>=0.2.0",
-    "torchaudio>=2.9.0",
+    "torchaudio>=2.1.0",
     "torchcodec>=0.8.1",
-    "transformers>=4.57.1",
+    "transformers>=4.52.1",
 ]
 
 [project.urls]
