@@ -1,0 +1,5 @@
+[lint]
+extend-ignore = ["ALL"]
+
+[format]
+exclude = ["**/*.py"]
