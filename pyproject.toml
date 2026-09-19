@@ -24,7 +24,7 @@ dependencies = [
     "torch>=2.9.0; python_version >= '3.14'",
     "torchaudio==2.6.0; python_version < '3.14'",
     "torchaudio>=2.9.0; python_version >= '3.14'",
-    "transformers>=5.17.0",
+    "transformers>=5.0.0",
 ]
 
 [project.urls]
